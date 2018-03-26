@@ -1,2 +1,2 @@
 # geojson-data
-A repo to server various GeoJSON files
+A repo to serve various GeoJSON files
