@@ -1,4 +1,4 @@
-### Data in this repo folder is covered by various licenses listed below.
+### Data in this repo folder are covered by various licenses listed below.
 
 File Name | License
 ------------ | -------------
